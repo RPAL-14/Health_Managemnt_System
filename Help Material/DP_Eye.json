@@ -1,0 +1,13 @@
+{
+	"Rx": 	{
+			"D.V.": {
+						"O.D.": {"Spherical" : "", "Cylindrical" : "", "Axix" : "", "Prism" : "", "Base" : ""},
+						"O.S.": {"Spherical" : "", "Cylindrical" : "", "Axix" : "", "Prism" : "", "Base" : ""}
+					},
+
+			"N.V.": {
+						"O.D.": {"Spherical" : "", "Cylindrical" : "", "Axix" : "", "Prism" : "", "Base" : ""},
+						"O.S.": {"Spherical" : "", "Cylindrical" : "", "Axix" : "", "Prism" : "", "Base" : ""}
+					}
+			}
+}

@@ -1,0 +1,14 @@
+{
+    "ALT (SGPT)":                 {"result":"", "status":"", "reference value":"15.00 - 40.00", "unit":"U/L"},
+    "AST (SGOT)":                 {"result":"", "status":"", "reference value":"10.00 - 49.00", "unit":"U/L"},
+    "AST : ALT ratio":            {"result":"", "status":"", "reference value":"< 1.00", "unit":""},
+    "GGTP":                       {"result":"", "status":"", "reference value":"0.00 - 73.00", "unit":"U/L"},
+    "ALP (Alkaline Phosphatase)": {"result":"", "status":"", "reference value":"30.00 - 120.00", "unit":"U/L"},
+    "Total bilirubin":            {"result":"", "status":"", "reference value":"0.30 - 1.20", "unit":"mg/dL"},
+    "Direct bilirubin":           {"result":"", "status":"", "reference value":"< 0.3", "unit":"mg/dL"},
+    "Indirect bilirubin":         {"result":"", "status":"", "reference value":"< 1.10", "unit":"mg/dL"},
+    "Total protein":              {"result":"", "status":"", "reference value":"5.70 - 8.20", "unit":"g/dL"},
+    "Albumin":                    {"result":"", "status":"", "reference value":"3.20 - 4.80", "unit":"g/dL"},
+    "Globulin":                   {"result":"", "status":"", "reference value":"2.00 - 3.50", "unit":"g/dL"},
+    "A : G Ratio":                {"result":"", "status":"", "reference value":"0.90 - 2.00", "unit":""}
+}
